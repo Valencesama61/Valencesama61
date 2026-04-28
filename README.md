@@ -92,5 +92,5 @@ Football et échecs.
 
 ## Contact
 
-**Email** — valenceodounbourou@gmail.com  
-**Portfolio** — [valenceod61.vercel.app](https://personnal-project-bice.vercel.app/)
+**Email** - valenceodounbourou@gmail.com  
+**Portfolio** - [valenceod61.vercel.app](https://personnal-project-bice.vercel.app/)
