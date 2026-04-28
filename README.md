@@ -45,7 +45,7 @@ Ouvert aux collaborations et aux opportunités.
 Plateforme de réservation et de paiement pour stations de car wash. Les clients découvrent les stations, réservent des créneaux et paient en ligne. Les gérants suivent leur activité via un espace d'administration.
 Stack : Next.js, React, TypeScript, PostgreSQL, Stripe Connect, Firebase FCM.
 
-**ok2gether**
+**[ok2gether](https://ok2gether.fr/)**
 Application de coparentalité (web + mobile) centralisant la coordination entre parents séparés : calendrier de tâches, gestion des accords, suivi des dépenses partagées, messagerie, documents, guide juridique et marketplace de médiateurs.
 Stack : Node.js, React, React Native, PostgreSQL.
 
